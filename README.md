@@ -1,5 +1,5 @@
-FreeBSD port for Ruby's gem hiera
-=================================
+FreeBSD port for Ruby's gem hiera-puppet
+========================================
 
 Installation
 -----------
