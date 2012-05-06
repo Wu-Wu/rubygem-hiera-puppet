@@ -6,13 +6,13 @@
 
 PORTNAME=	hiera-puppet
 PORTVERSION=	0.3.0
-CATEGORIES=	sysutils rubygems
+CATEGORIES=	databases rubygems
 MASTER_SITES=	RG
 
 MAINTAINER=	ruby@FreeBSD.org
 COMMENT=	Puppet function and data backend for Hiera
 
-RUN_DEPENDS=	rubygem-hiera>=0:${PORTSDIR}/sysutils/rubygem-hiera
+RUN_DEPENDS=	rubygem-hiera>=0:${PORTSDIR}/databases/rubygem-hiera
 
 USE_RUBY=	yes
 USE_RUBYGEMS=	yes
